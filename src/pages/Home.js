@@ -26,7 +26,7 @@ const Home = () => {
             </Link>
           </Col>
           <Col xs lg="2">
-            <Link to={"/yearlyReports"} style={buttonStyle}>
+            <Link to={"/yearlyReport"} style={buttonStyle}>
               <Button>
                 See Yearly Reports
               </Button>
